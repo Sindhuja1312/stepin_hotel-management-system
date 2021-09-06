@@ -6,7 +6,7 @@ The hotel management system is a web based application that allows the hotel man
 # SDLC Activity Based Learning
 Build | Code Quality | Git Inspector |
 |---------|------------|-------------|
-
+[![C/C++ CI](https://github.com/Sindhuja1312/stepin_hotel-management-system/actions/workflows/c.yml/badge.svg)](https://github.com/Sindhuja1312/stepin_hotel-management-system/actions/workflows/c.yml)
 
 #### Folder Structure
 Folder             | Description
